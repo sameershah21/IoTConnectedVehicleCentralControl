@@ -1,0 +1,16 @@
+{
+  "id": "1",
+  "name": "My Car",
+  "licenseplate": "TMG1163",
+  "state": "NV",
+  "GPS": {
+    "latitude": "42.037233",
+    "longitude": "-87.900832"
+  },
+  "temperature": "70.00",
+  "tirepressure": "33 33 32 32",
+  "currentspeed": "50",
+  "carbonmonoxide": "10",
+  "pollencount": "2",
+  "lastupdated": "12/27/2016, 1:18:55 PM"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2",
+  "name": "My Parents Car",
+  "licenseplate": "TMG1163",
+  "state": "NV",
+  "GPS": {
+    "latitude": "13.037233",
+    "longitude": "-87.900832"
+  },
+  "temperature": "85.60",
+  "tirepressure": "32 32 34 34",
+  "carbonmonoxide": "30",
+  "pollencount": "4.6",
+  "currentspeed": "31",
+  "lastupdated": "12/28/2016, 5:50:59 AM"
+}

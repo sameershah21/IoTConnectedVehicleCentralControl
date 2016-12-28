@@ -1,0 +1,16 @@
+{
+  "id": "7",
+  "name": "My Brothers Car",
+  "licenseplate": "1123NTG",
+  "state": "NY",
+  "GPS": {
+    "latitude": "51.233",
+    "longitude": "34.9832"
+  },
+  "temperature": "12.20",
+  "tirepressure": "0 0 98 32",
+  "carbonmonoxide": "200",
+  "pollencount": "33.4",
+  "currentspeed": "170",
+  "lastupdated": "0 Hours 4 Minutes 32 Seconds"
+}

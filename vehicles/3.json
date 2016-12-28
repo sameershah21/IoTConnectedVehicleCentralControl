@@ -1,0 +1,16 @@
+{
+  "id": "3",
+  "name": "My Spouses Car",
+  "licenseplate": "XVT1163",
+  "state": "NV",
+  "GPS": {
+    "latitude": "84.93233",
+    "longitude": "-127.900832"
+  },
+  "temperature": "71.60",
+  "tirepressure": "33 30 35 32",
+  "carbonmonoxide": "61",
+  "pollencount": "2.4",
+  "currentspeed": "70",
+  "lastupdated": "12/28/2016, 5:23:54 AM"
+}

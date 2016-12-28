@@ -1,0 +1,16 @@
+{
+  "id": "4",
+  "name": "Parents Loaner Vehicle",
+  "licenseplate": "GHT5566",
+  "state": "NJ",
+  "GPS": {
+    "latitude": "987.93233",
+    "longitude": "-127.900832"
+  },
+  "temperature": "30.60",
+  "tirepressure": "19 10 35 32",
+  "carbonmonoxide": "61",
+  "pollencount": "55.4",
+  "currentspeed": "124.0",
+  "lastupdated": "0 Hours 1 Minutes 32 Seconds"
+}

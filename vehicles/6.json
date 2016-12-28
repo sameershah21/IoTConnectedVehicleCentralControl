@@ -1,0 +1,16 @@
+{
+  "id": "6",
+  "name": "Rental Car For Personal Trip",
+  "licenseplate": "DMW8871",
+  "state": "CA",
+  "GPS": {
+    "latitude": "177.93233",
+    "longitude": "-327.900832"
+  },
+  "temperature": "-77.20",
+  "tirepressure": "77 0 32 32",
+  "carbonmonoxide": "2",
+  "pollencount": "15.4",
+  "currentspeed": "0",
+  "lastupdated": "0 Hours 4 Minutes 32 Seconds"
+}

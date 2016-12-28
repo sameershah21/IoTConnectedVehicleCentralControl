@@ -1,0 +1,16 @@
+{
+  "id": "8",
+  "name": "My Sisters Car",
+  "licenseplate": "TX2588TT",
+  "state": "TX",
+  "GPS": {
+    "latitude": "91.233",
+    "longitude": "-384.9832"
+  },
+  "temperature": "26.20",
+  "tirepressure": "33 33 33 32",
+  "carbonmonoxide": "0",
+  "pollencount": "55.4",
+  "currentspeed": "100",
+  "lastupdated": "12/28/2016, 5:07:06 AM"
+}

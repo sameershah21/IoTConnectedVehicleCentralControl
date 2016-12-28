@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All Connected Vehicles</title>
+    <style>
+        * {
+            font-family: Helvetica, Arial, sans-serif;
+        }
+        div {
+            display: flex;
+            align-items: center;
+            padding: 1em;
+            font-size: 1.2em;
+        }
+        div a {
+            padding-left: 0.5em;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Displaying all connected vehicles</h1>
+{{#each vehicles as |vehicle|}}
+    <div>
+
+        <a href="/{{vehicle.id}}">{{vehicle.name}}</a>
+    </div>
+{{/each}}
+
+</body>
+</html>

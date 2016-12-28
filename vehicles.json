@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "My Car",
+    "licenseplate": "IOT-ROCKS",
+    "state": "NV"
+  },
+  {
+    "id": "2",
+    "name": "My Parents Car",
+    "licenseplate": "TMG1163",
+    "state": "MH"
+  },
+  {
+    "id": "3",
+    "name": "My Spouses Car",
+    "licenseplate": "DMW8871",
+    "state": "CA"
+  },
+  {
+    "id": "4",
+    "name": "Parents Loaner Vehicle ",
+    "licenseplate": "GHT5566",
+    "state": "NV"
+  },
+  {
+    "id": "5",
+    "name": "Rental Car For Business Trip",
+    "licenseplate": "TMG1163",
+    "state": "MH"
+  },
+  {
+    "id": "6",
+    "name": "Rental Car For Personal Trip",
+    "licenseplate": "DMW8871",
+    "state": "CA"
+  },
+  {
+    "id": "7",
+    "name": "My Brothers Car",
+    "licenseplate": "1123NTG",
+    "state": "NY"
+  },
+  {
+  "id": "8",
+  "name": "My Sisters Car",
+  "licenseplate": "TX2588TT",
+  "state": "TX"
+}
+]

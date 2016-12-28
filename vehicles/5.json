@@ -1,0 +1,16 @@
+{
+  "id": "5",
+  "name": "Rental Car For Business Trip",
+  "licenseplate": "TMG1163",
+  "state": "MH",
+  "GPS": {
+    "latitude": "77.93233",
+    "longitude": "27.900832"
+  },
+  "temperature": "100.60",
+  "tirepressure": "33 33 33 32",
+  "carbonmonoxide": "61",
+  "pollencount": "65.4",
+  "currentspeed": "144.0",
+  "lastupdated": "0 Hours 1 Minutes 32 Seconds"
+}
